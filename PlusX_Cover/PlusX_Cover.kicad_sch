@@ -1825,127 +1825,6 @@
 				)
 			)
 		)
-		(symbol "Device:R"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 2.032 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "R"
-				(at 0 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at -1.778 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Resistor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "R res resistor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "R_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "R_0_1"
-				(rectangle
-					(start -1.016 -2.54)
-					(end 1.016 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "R_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "GND_1"
 			(power)
 			(pin_numbers hide)
@@ -2727,6 +2606,195 @@
 				)
 			)
 		)
+		(symbol "PWR263S-35-56R0F:PWR263S-35-56R0F"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 16.51 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "PWR263S-35-56R0F"
+				(at 16.51 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "PWR263S3556R0F"
+				(at 16.51 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/pwr263s-35.pdf"
+				(at 16.51 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "BOURNS - PWR263S-35-56R0F - RESISTOR, POWER, 56R, 0.01, 35W"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" ""
+				(at 16.51 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Bourns"
+				(at 16.51 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "PWR263S-35-56R0F"
+				(at 16.51 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "652-PWR263S3556R0F"
+				(at 16.51 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/PWR263S-35-56R0F?qs=oyIm%2F3giSj5cCPEmWdLGMQ%3D%3D"
+				(at 16.51 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" "PWR263S-35-56R0F"
+				(at 16.51 -894.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/pwr263s-35-56r0f/bourns"
+				(at 16.51 -994.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "PWR263S-35-56R0F_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 15.24 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 20.32 0 180)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "T2M-107-01-X-D-SM-DS:T2M-107-01-X-D-SM-DS"
 			(pin_names
 				(offset 1.016)
@@ -3196,22 +3264,22 @@
 		(uuid "90a75150-e11d-4ecb-9e15-94d3d8daf5b1")
 	)
 	(junction
-		(at 134.62 184.15)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a3d3bba6-fc65-4a93-8ad2-66de81586668")
-	)
-	(junction
 		(at 71.12 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ecc38e0a-d4b6-4b4b-9f70-970ddf2afd96")
 	)
-	(junction
-		(at 114.3 184.15)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "edb85c66-a82d-4ec3-86aa-d840493396c1")
+	(no_connect
+		(at 92.71 179.07)
+		(uuid "05ff5d36-b883-4359-a25d-9dd281bac2a6")
+	)
+	(no_connect
+		(at 113.03 179.07)
+		(uuid "2f181ef8-6dd2-4d84-9c7b-2f202f365e60")
+	)
+	(no_connect
+		(at 92.71 190.5)
+		(uuid "95038669-2f08-419d-bcec-c6b9e5a76fb4")
 	)
 	(no_connect
 		(at 52.07 68.58)
@@ -3220,6 +3288,10 @@
 	(no_connect
 		(at 77.47 68.58)
 		(uuid "bd749471-3c7c-441c-a274-98e04e02c66f")
+	)
+	(no_connect
+		(at 113.03 190.5)
+		(uuid "d25b2b7a-ef1d-46cf-8bd4-0778e7e47410")
 	)
 	(wire
 		(pts
@@ -3263,16 +3335,6 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 184.15) (xy 134.62 187.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0e239b55-20bb-4fcf-b04e-1ad703303a0e")
-	)
-	(wire
-		(pts
 			(xy 113.03 124.46) (xy 115.57 124.46)
 		)
 		(stroke
@@ -3290,16 +3352,6 @@
 			(type default)
 		)
 		(uuid "10a270e5-24fb-4ff8-92a9-c90f3b41e48a")
-	)
-	(wire
-		(pts
-			(xy 121.92 179.07) (xy 127 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "19001c05-6ddd-45af-9ae5-9d21a16e28b9")
 	)
 	(wire
 		(pts
@@ -3463,7 +3515,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 184.15) (xy 114.3 184.15)
+			(xy 88.9 176.53) (xy 92.71 176.53)
 		)
 		(stroke
 			(width 0)
@@ -3500,16 +3552,6 @@
 			(type default)
 		)
 		(uuid "5b363082-49b5-44f4-a898-ccf3a5707456")
-	)
-	(wire
-		(pts
-			(xy 121.92 187.96) (xy 127 187.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5cc0bfe9-1b14-4d4f-b171-9ec28f2c15c7")
 	)
 	(wire
 		(pts
@@ -3603,6 +3645,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 187.96) (xy 137.16 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6efcec43-7f4d-4ab8-8ee9-7658b6a0ae10")
+	)
+	(wire
+		(pts
 			(xy 87.63 121.92) (xy 90.17 121.92)
 		)
 		(stroke
@@ -3610,6 +3662,16 @@
 			(type default)
 		)
 		(uuid "76460f5d-0c30-4bc3-90e2-5e7697e39d17")
+	)
+	(wire
+		(pts
+			(xy 139.7 176.53) (xy 133.35 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bfecd3e-0f94-4a17-b4c2-9374421d1cb3")
 	)
 	(wire
 		(pts
@@ -3640,16 +3702,6 @@
 			(type default)
 		)
 		(uuid "8220d180-5de7-4760-bb92-d95ec6eba039")
-	)
-	(wire
-		(pts
-			(xy 114.3 179.07) (xy 114.3 184.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "92080f4f-6e52-409d-a467-364b7af33848")
 	)
 	(wire
 		(pts
@@ -3693,6 +3745,16 @@
 	)
 	(wire
 		(pts
+			(xy 83.82 187.96) (xy 92.71 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f50475a-e2db-42e3-8cd5-c8e6ef561101")
+	)
+	(wire
+		(pts
 			(xy 113.03 111.76) (xy 115.57 111.76)
 		)
 		(stroke
@@ -3700,16 +3762,6 @@
 			(type default)
 		)
 		(uuid "9fdc6828-0e70-4b21-bc8a-2240638e34d4")
-	)
-	(wire
-		(pts
-			(xy 134.62 179.07) (xy 134.62 184.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a2c7b3ed-af4c-47fe-aad9-2d233bf0d45b")
 	)
 	(wire
 		(pts
@@ -3750,16 +3802,6 @@
 			(type default)
 		)
 		(uuid "affcaa32-1320-4385-b050-f0e51fa1fa51")
-	)
-	(wire
-		(pts
-			(xy 134.62 184.15) (xy 138.43 184.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b6921f9b-c83d-4bc6-b960-e4173fb98eed")
 	)
 	(wire
 		(pts
@@ -3943,16 +3985,6 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 184.15) (xy 114.3 187.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e2979710-9aff-44f5-85e9-617fdb076ca0")
-	)
-	(wire
-		(pts
 			(xy 208.28 100.33) (xy 205.74 100.33)
 		)
 		(stroke
@@ -4038,8 +4070,8 @@
 		(uuid b74cb219-52c3-4d56-a744-a7d5d6fc28e3)
 	)
 	(rectangle
-		(start 101.346 155.448)
-		(end 143.764 190.754)
+		(start 77.216 155.448)
+		(end 166.116 197.866)
 		(stroke
 			(width 0)
 			(type dash)
@@ -4885,6 +4917,17 @@
 		)
 		(uuid "a5e9eb4b-cf7a-478d-8360-ebf6851541bc")
 	)
+	(label "28V2_KILL"
+		(at 137.16 187.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a7c05b5b-dc7f-48c6-9373-c62c50db6101")
+	)
 	(label "GND"
 		(at 55.88 96.52 180)
 		(fields_autoplaced yes)
@@ -5040,7 +5083,7 @@
 		(uuid "d2bb1100-a3d0-4dce-a77d-72fd52e56aa0")
 	)
 	(label "28V2_KILL"
-		(at 111.76 184.15 180)
+		(at 88.9 176.53 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5799,6 +5842,149 @@
 		)
 	)
 	(symbol
+		(lib_id "PWR263S-35-56R0F:PWR263S-35-56R0F")
+		(at 92.71 187.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0759597f-3ae5-40f8-b5ec-fd4e19d8bc23")
+		(property "Reference" "R3"
+			(at 102.616 183.896 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR263S-35-56R0F"
+			(at 102.87 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "PWR263S3556R0F"
+			(at 109.22 282.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/pwr263s-35.pdf"
+			(at 109.22 382.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "BOURNS - PWR263S-35-56R0F - RESISTOR, POWER, 56R, 0.01, 35W"
+			(at 92.71 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 109.22 582.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Bourns"
+			(at 109.22 682.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PWR263S-35-56R0F"
+			(at 109.22 782.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "652-PWR263S3556R0F"
+			(at 109.22 882.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/PWR263S-35-56R0F?qs=oyIm%2F3giSj5cCPEmWdLGMQ%3D%3D"
+			(at 109.22 982.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "PWR263S-35-56R0F"
+			(at 109.22 1082.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/pwr263s-35-56r0f/bourns"
+			(at 109.22 1182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "d1d196ac-2dbb-43e5-9543-39bae0d45195")
+		)
+		(pin "1"
+			(uuid "900acb7a-caef-4647-978a-9e215e97b75b")
+		)
+		(pin "2"
+			(uuid "06a883cc-3e96-4e24-bdc9-d5e6cbe384fa")
+		)
+		(instances
+			(project "PlusX_Cover"
+				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 208.28 130.81 90)
 		(unit 1)
@@ -5926,6 +6112,149 @@
 			(project "PlusX_Cover"
 				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PWR263S-35-56R0F:PWR263S-35-56R0F")
+		(at 113.03 187.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0c044ab4-cd9c-4cd6-ad09-49a1011e62d6")
+		(property "Reference" "R2"
+			(at 123.19 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR263S-35-56R0F"
+			(at 123.19 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "PWR263S3556R0F"
+			(at 129.54 282.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/pwr263s-35.pdf"
+			(at 129.54 382.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "BOURNS - PWR263S-35-56R0F - RESISTOR, POWER, 56R, 0.01, 35W"
+			(at 113.03 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 129.54 582.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Bourns"
+			(at 129.54 682.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PWR263S-35-56R0F"
+			(at 129.54 782.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "652-PWR263S3556R0F"
+			(at 129.54 882.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/PWR263S-35-56R0F?qs=oyIm%2F3giSj5cCPEmWdLGMQ%3D%3D"
+			(at 129.54 982.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "PWR263S-35-56R0F"
+			(at 129.54 1082.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/pwr263s-35-56r0f/bourns"
+			(at 129.54 1182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "d9efafc6-9fe2-404f-adbd-b7ae9423b276")
+		)
+		(pin "1"
+			(uuid "f20a8457-8289-4cc0-b884-5d5b9cac1379")
+		)
+		(pin "2"
+			(uuid "d5eb753c-ceef-4198-b9be-68f29a4b85f5")
+		)
+		(instances
+			(project "PlusX_Cover"
+				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -6204,73 +6533,6 @@
 			(project "PlusX_Cover"
 				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
 					(reference "#PWR010")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 118.11 187.96 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "27fa9a78-8d10-4d53-a372-c6ecd56571fb")
-		(property "Reference" "R3"
-			(at 118.11 183.134 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "56"
-			(at 118.11 185.674 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PWR263S-35-56R0F:PWR263S3556R0F"
-			(at 118.11 189.738 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 118.11 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 118.11 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4efcfefe-848b-4a2e-8d2c-b76bbf81e37c")
-		)
-		(pin "1"
-			(uuid "34a1bd4c-2ade-4554-809e-5e92b5932aec")
-		)
-		(instances
-			(project "PlusX_Cover"
-				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
-					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -6651,6 +6913,149 @@
 		)
 	)
 	(symbol
+		(lib_id "PWR263S-35-56R0F:PWR263S-35-56R0F")
+		(at 92.71 176.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3d3a7216-b265-43b9-8f37-da9fabfc5b52")
+		(property "Reference" "R5"
+			(at 102.362 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR263S-35-56R0F"
+			(at 102.87 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "PWR263S3556R0F"
+			(at 109.22 271.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/pwr263s-35.pdf"
+			(at 109.22 371.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "BOURNS - PWR263S-35-56R0F - RESISTOR, POWER, 56R, 0.01, 35W"
+			(at 92.71 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 109.22 571.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Bourns"
+			(at 109.22 671.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PWR263S-35-56R0F"
+			(at 109.22 771.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "652-PWR263S3556R0F"
+			(at 109.22 871.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/PWR263S-35-56R0F?qs=oyIm%2F3giSj5cCPEmWdLGMQ%3D%3D"
+			(at 109.22 971.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "PWR263S-35-56R0F"
+			(at 109.22 1071.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/pwr263s-35-56r0f/bourns"
+			(at 109.22 1171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "9356c5f1-d87b-4e53-a6ab-c6ca981ef342")
+		)
+		(pin "1"
+			(uuid "9c19f0b6-bfaa-47e6-83b4-71eba49390a4")
+		)
+		(pin "2"
+			(uuid "e0a55547-aba7-483a-b6f4-de711f858560")
+		)
+		(instances
+			(project "PlusX_Cover"
+				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 30.48 30.48 0)
 		(unit 1)
@@ -6867,6 +7272,72 @@
 			(project "PlusX_Cover"
 				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
 					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "GND_1")
+		(lib_id "power:GND")
+		(at 83.82 187.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4860551b-7ddd-49c0-afbc-9bf1f1129103")
+		(property "Reference" "#PWR012"
+			(at 83.82 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 86.614 191.262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 83.82 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 83.82 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 83.82 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5ec291f4-8bb7-4006-bafa-878358da23e0")
+		)
+		(instances
+			(project "PlusX_Cover"
+				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -7365,73 +7836,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 130.81 179.07 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "787b2619-2fca-4ab1-af92-174a9ad3b076")
-		(property "Reference" "R2"
-			(at 130.81 174.244 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "56"
-			(at 130.81 176.784 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PWR263S-35-56R0F:PWR263S3556R0F"
-			(at 130.81 180.848 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 130.81 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 130.81 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "7e8eb87a-9003-4cb6-b110-e478ab4ac89a")
-		)
-		(pin "1"
-			(uuid "5971e315-217d-45d0-98e2-b5158905bab1")
-		)
-		(instances
-			(project "PlusX_Cover"
-				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
-					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 30.48 21.59 0)
 		(unit 1)
@@ -7789,6 +8193,149 @@
 			(project "PlusX_Cover"
 				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
 					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PWR263S-35-56R0F:PWR263S-35-56R0F")
+		(at 113.03 176.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "aeb9fa51-a697-4952-a6a6-b76ae2e8635f")
+		(property "Reference" "R1"
+			(at 123.19 172.466 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR263S-35-56R0F"
+			(at 123.19 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "PWR263S3556R0F"
+			(at 129.54 271.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/pwr263s-35.pdf"
+			(at 129.54 371.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "BOURNS - PWR263S-35-56R0F - RESISTOR, POWER, 56R, 0.01, 35W"
+			(at 113.03 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 129.54 571.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Bourns"
+			(at 129.54 671.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PWR263S-35-56R0F"
+			(at 129.54 771.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "652-PWR263S3556R0F"
+			(at 129.54 871.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/PWR263S-35-56R0F?qs=oyIm%2F3giSj5cCPEmWdLGMQ%3D%3D"
+			(at 129.54 971.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "PWR263S-35-56R0F"
+			(at 129.54 1071.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/pwr263s-35-56r0f/bourns"
+			(at 129.54 1171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "ef40fb4f-c91b-46ee-bbf4-7e0dc408276b")
+		)
+		(pin "1"
+			(uuid "609599cb-abdf-4cc2-9210-7b2d15e47e8f")
+		)
+		(pin "2"
+			(uuid "fd13cbd0-74c9-4437-8595-adfb791ea438")
+		)
+		(instances
+			(project "PlusX_Cover"
+				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -8394,140 +8941,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 130.81 187.96 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e7241ecc-9169-4997-85a6-535c33b4bd78")
-		(property "Reference" "R4"
-			(at 130.81 183.134 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "56"
-			(at 130.81 185.674 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PWR263S-35-56R0F:PWR263S3556R0F"
-			(at 130.81 189.738 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 130.81 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 130.81 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "20508a74-680a-41bc-91d0-56a1915a0cbb")
-		)
-		(pin "1"
-			(uuid "218cb3c3-e51e-43d4-9981-270644807e10")
-		)
-		(instances
-			(project "PlusX_Cover"
-				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
-					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 118.11 179.07 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e9c2bbba-d3f7-46d4-ad71-c7eae2e35d9f")
-		(property "Reference" "R1"
-			(at 118.11 174.244 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "56"
-			(at 118.11 176.784 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PWR263S-35-56R0F:PWR263S3556R0F"
-			(at 118.11 180.848 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 118.11 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 118.11 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ea4f44b8-7b4b-4493-96b7-b8f97bece2a5")
-		)
-		(pin "1"
-			(uuid "edf3331a-7a1e-441d-a1f7-ef2c54db167d")
-		)
-		(instances
-			(project "PlusX_Cover"
-				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
-					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 207.01 80.01 90)
 		(unit 1)
@@ -8663,7 +9076,7 @@
 	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
-		(at 138.43 184.15 0)
+		(at 139.7 176.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8671,7 +9084,7 @@
 		(dnp no)
 		(uuid "f405865a-01bc-4d0a-a73c-718fea1bcbd6")
 		(property "Reference" "#PWR06"
-			(at 138.43 190.5 0)
+			(at 139.7 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8680,7 +9093,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 141.224 187.452 0)
+			(at 142.494 179.832 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8688,7 +9101,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 138.43 184.15 0)
+			(at 139.7 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8697,7 +9110,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 138.43 184.15 0)
+			(at 139.7 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8706,7 +9119,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 138.43 184.15 0)
+			(at 139.7 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
