@@ -6210,6 +6210,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 118.11 187.96 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "27fa9a78-8d10-4d53-a372-c6ecd56571fb")
+		(property "Reference" "R3"
+			(at 118.11 183.134 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "56"
+			(at 118.11 185.674 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PWR263S-35-56R0F:PWR263S3556R0F"
+			(at 118.11 189.738 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 118.11 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 118.11 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4efcfefe-848b-4a2e-8d2c-b76bbf81e37c")
+		)
+		(pin "1"
+			(uuid "34a1bd4c-2ade-4554-809e-5e92b5932aec")
+		)
+		(instances
+			(project "PlusX_Cover"
+				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 21.59 21.59 0)
 		(unit 1)
@@ -7299,15 +7366,15 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 130.81 187.96 90)
+		(at 130.81 179.07 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "7143fb3b-b43e-4fd1-a253-f565468637ab")
-		(property "Reference" "R4"
-			(at 130.81 183.134 90)
+		(uuid "787b2619-2fca-4ab1-af92-174a9ad3b076")
+		(property "Reference" "R2"
+			(at 130.81 174.244 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7315,15 +7382,15 @@
 			)
 		)
 		(property "Value" "56"
-			(at 130.81 185.674 90)
+			(at 130.81 176.784 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 130.81 189.738 90)
+		(property "Footprint" "PWR263S-35-56R0F:PWR263S3556R0F"
+			(at 130.81 180.848 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7332,7 +7399,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 130.81 187.96 0)
+			(at 130.81 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7341,7 +7408,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 130.81 187.96 0)
+			(at 130.81 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7350,15 +7417,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "1baafb63-30eb-45ed-9108-4c930ca5c797")
+			(uuid "7e8eb87a-9003-4cb6-b110-e478ab4ac89a")
 		)
 		(pin "1"
-			(uuid "89a36444-f4a9-4bdd-bb54-9991b3eea452")
+			(uuid "5971e315-217d-45d0-98e2-b5158905bab1")
 		)
 		(instances
 			(project "PlusX_Cover"
 				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
-					(reference "R4")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -8328,15 +8395,15 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 130.81 179.07 90)
+		(at 130.81 187.96 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "cfe84061-ab78-414e-bafe-eed127a3a8fe")
-		(property "Reference" "R2"
-			(at 130.81 174.244 90)
+		(uuid "e7241ecc-9169-4997-85a6-535c33b4bd78")
+		(property "Reference" "R4"
+			(at 130.81 183.134 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8344,15 +8411,15 @@
 			)
 		)
 		(property "Value" "56"
-			(at 130.81 176.784 90)
+			(at 130.81 185.674 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 130.81 180.848 90)
+		(property "Footprint" "PWR263S-35-56R0F:PWR263S3556R0F"
+			(at 130.81 189.738 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8361,7 +8428,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 130.81 179.07 0)
+			(at 130.81 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8370,7 +8437,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 130.81 179.07 0)
+			(at 130.81 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8379,15 +8446,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "11774b23-2486-4fea-93ed-00424754686e")
+			(uuid "20508a74-680a-41bc-91d0-56a1915a0cbb")
 		)
 		(pin "1"
-			(uuid "8859b9fe-b0a7-4940-bfc5-30ee2fc5e93f")
+			(uuid "218cb3c3-e51e-43d4-9981-270644807e10")
 		)
 		(instances
 			(project "PlusX_Cover"
 				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
-					(reference "R2")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -8418,7 +8485,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PWR263S-35-56R0F:PWR263S3556R0F"
 			(at 118.11 180.848 90)
 			(effects
 				(font
@@ -8654,73 +8721,6 @@
 			(project "PlusX_Cover"
 				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
 					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 118.11 187.96 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f6270bee-0b15-4fb1-a3e7-e99e69c0611b")
-		(property "Reference" "R3"
-			(at 118.11 183.134 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "56"
-			(at 118.11 185.674 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 118.11 189.738 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 118.11 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 118.11 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "cf212533-4416-4132-9081-e30b04d3e8aa")
-		)
-		(pin "1"
-			(uuid "9c315f50-96aa-4548-be33-1f7aa42c81e1")
-		)
-		(instances
-			(project "PlusX_Cover"
-				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
-					(reference "R3")
 					(unit 1)
 				)
 			)

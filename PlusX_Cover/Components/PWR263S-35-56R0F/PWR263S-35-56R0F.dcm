@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PWR263S-35-56R0F
+D BOURNS - PWR263S-35-56R0F - RESISTOR, POWER, 56R, 0.01, 35W
+K
+F http://www.bourns.com/docs/Product-Datasheets/pwr263s-35.pdf
+$ENDCMP
+#
+#End Doc Library
