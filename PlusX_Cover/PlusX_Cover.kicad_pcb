@@ -5012,7 +5012,7 @@
 	(footprint "504050-0491:5040500491"
 		(layer "B.Cu")
 		(uuid "02a8890b-f58d-4455-b54a-45ddb83f7abf")
-		(at 44.24 31.77 180)
+		(at 43.3 31.36 180)
 		(descr "504050-0491-1")
 		(tags "Connector")
 		(property "Reference" "J7"
@@ -9230,9 +9230,9 @@
 		(uuid "4db4bf3a-9381-4772-92fa-6b8fb26793ff")
 	)
 	(gr_arc
-		(start 49.877221 53.1246)
-		(mid 84.94354 30.893073)
-		(end 62.65 65.92)
+		(start 61.819312 26.240529)
+		(mid 85.559251 60.303746)
+		(end 49.593231 39.559279)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -9252,8 +9252,8 @@
 		(uuid "59277324-7342-436d-804f-7bd7f174f502")
 	)
 	(gr_line
-		(start 49.877221 53.1246)
-		(end 49.877221 63.92388)
+		(start 61.819312 26.240529)
+		(end 51.030311 26.711587)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -9293,8 +9293,8 @@
 		(uuid "9b834821-ceed-44c7-97d7-e3901b5cfd21")
 	)
 	(gr_line
-		(start 51.877941 65.923879)
-		(end 62.65 65.92)
+		(start 49.119485 28.797641)
+		(end 49.593231 39.559279)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -9324,9 +9324,9 @@
 		(uuid "d333cc21-1730-4315-83b1-c56cdf70f960")
 	)
 	(gr_arc
-		(start 51.877941 65.923879)
-		(mid 50.463256 65.338354)
-		(end 49.877221 63.92388)
+		(start 49.119485 28.797641)
+		(mid 49.642746 27.358762)
+		(end 51.030311 26.711587)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -9812,6 +9812,18 @@
 				(bold yes)
 			)
 			(justify left bottom mirror)
+		)
+	)
+	(gr_text "Apply Before Flight"
+		(at 47.93 176.2 0)
+		(layer "F.SilkS")
+		(uuid "0526780a-ec27-44cf-ae42-9d850050d14f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+			(justify left bottom)
 		)
 	)
 	(dimension
