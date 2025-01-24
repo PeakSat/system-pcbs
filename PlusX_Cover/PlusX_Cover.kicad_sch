@@ -8139,7 +8139,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x02"
+		(property "Value" "SSM-102-L-SV"
 			(at 49.53 173.9899 0)
 			(effects
 				(font
@@ -8167,7 +8167,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Mates with RBF pin JL-100-25-T"
 			(at 46.99 171.45 0)
 			(effects
 				(font
