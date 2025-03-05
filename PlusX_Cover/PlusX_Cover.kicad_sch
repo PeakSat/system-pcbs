@@ -3375,6 +3375,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 93.98) (xy 55.88 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21b82f95-aa30-45d0-9cec-65dcf02a05f3")
+	)
+	(wire
+		(pts
 			(xy 87.63 132.08) (xy 90.17 132.08)
 		)
 		(stroke
@@ -3382,6 +3392,16 @@
 			(type default)
 		)
 		(uuid "23e37d82-ce2a-406a-b66f-4c4427a39b6b")
+	)
+	(wire
+		(pts
+			(xy 173.99 86.36) (xy 176.53 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2819064f-12cb-4df2-a2ab-dbeb4de7c019")
 	)
 	(wire
 		(pts
@@ -3435,6 +3455,16 @@
 	)
 	(wire
 		(pts
+			(xy 173.99 88.9) (xy 176.53 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f407dde-4245-4c95-afcd-e3b10df17b1a")
+	)
+	(wire
+		(pts
 			(xy 50.8 53.34) (xy 52.07 53.34)
 		)
 		(stroke
@@ -3485,6 +3515,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 83.82) (xy 55.88 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4dd305b9-9b04-42d9-a35c-d5a56f1c9c8d")
+	)
+	(wire
+		(pts
 			(xy 87.63 101.6) (xy 90.17 101.6)
 		)
 		(stroke
@@ -3492,6 +3532,16 @@
 			(type default)
 		)
 		(uuid "53794221-f808-4b54-a48f-25cf13dd735c")
+	)
+	(wire
+		(pts
+			(xy 175.26 83.82) (xy 176.53 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5441fabf-1705-43ea-9b39-1ea66f29e8de")
 	)
 	(wire
 		(pts
@@ -3585,6 +3635,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 91.44) (xy 55.88 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d8747aa-2223-4c37-9187-54338b829a74")
+	)
+	(wire
+		(pts
 			(xy 205.74 90.17) (xy 207.01 90.17)
 		)
 		(stroke
@@ -3612,6 +3672,16 @@
 			(type default)
 		)
 		(uuid "8220d180-5de7-4760-bb92-d95ec6eba039")
+	)
+	(wire
+		(pts
+			(xy 175.26 76.2) (xy 176.53 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b14165e-0eb5-4d3b-ac43-e714baab9c48")
 	)
 	(wire
 		(pts
@@ -3765,6 +3835,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 86.36) (xy 55.88 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc952b6d-3729-4a7f-af6c-c6a829c07138")
+	)
+	(wire
+		(pts
 			(xy 50.8 58.42) (xy 52.07 58.42)
 		)
 		(stroke
@@ -3792,6 +3872,16 @@
 			(type default)
 		)
 		(uuid "d90f0a38-6f49-4824-91c2-641564d6dcd2")
+	)
+	(wire
+		(pts
+			(xy 53.34 96.52) (xy 55.88 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d91147c7-8537-4144-91f9-7842cc23f367")
 	)
 	(wire
 		(pts
@@ -3832,6 +3922,36 @@
 			(type default)
 		)
 		(uuid "e13220c2-3198-4431-8a09-1119bba1269b")
+	)
+	(wire
+		(pts
+			(xy 173.99 81.28) (xy 176.53 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f266fc8b-2929-45c1-ab8c-fc1d38c4ca26")
+	)
+	(wire
+		(pts
+			(xy 53.34 88.9) (xy 55.88 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f347ac24-0d63-41fc-adaf-9af6238c3b31")
+	)
+	(wire
+		(pts
+			(xy 173.99 78.74) (xy 176.53 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5fc1d61-6bec-4820-a750-1ee0f1aee341")
 	)
 	(wire
 		(pts
@@ -3904,8 +4024,8 @@
 		(uuid e82be69f-a637-412e-a612-6b8a896f2246)
 	)
 	(rectangle
-		(start 153.162 70.866)
-		(end 183.642 92.964)
+		(start 153.416 70.866)
+		(end 188.722 92.964)
 		(stroke
 			(width 0)
 			(type dash)
@@ -3965,9 +4085,9 @@
 		)
 		(uuid "7bc94af4-e3fa-4e79-adfc-71191970436b")
 	)
-	(text "Could Be Unused (PAY Connector)"
+	(text "ATLAS SPI Connector"
 		(exclude_from_sim no)
-		(at 168.91 69.342 0)
+		(at 173.99 69.342 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4179,17 +4299,6 @@
 		)
 		(uuid "26cac4fc-f50f-4d5e-b26f-946b04ebc6b3")
 	)
-	(label "GND"
-		(at 171.45 81.28 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "28fca29f-39c6-43a8-a7e3-148e4bef6e8c")
-	)
 	(label "!BAT_ENA_HS"
 		(at 78.74 55.88 0)
 		(fields_autoplaced yes)
@@ -4211,17 +4320,6 @@
 			(justify right bottom)
 		)
 		(uuid "338aad24-3ba7-4650-a30b-77a913452821")
-	)
-	(label "PAY_UART_RX"
-		(at 171.45 76.2 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "35109cd0-f7bd-4b28-80ef-d59feb29559a")
 	)
 	(label "EPS_UART_TX"
 		(at 234.95 62.23 0)
@@ -4267,17 +4365,6 @@
 		)
 		(uuid "3cb856c5-e6fe-4956-853b-21f515c4483b")
 	)
-	(label "PAY_UART_RX"
-		(at 55.88 83.82 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3e396e12-3b28-490c-950d-ace993d044df")
-	)
 	(label "!SEPARATION_3"
 		(at 50.8 60.96 180)
 		(fields_autoplaced yes)
@@ -4310,17 +4397,6 @@
 			(justify right bottom)
 		)
 		(uuid "409359c3-3aa9-449e-9e2f-a846d4c6cc63")
-	)
-	(label "SWCLK"
-		(at 171.45 86.36 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "416494e2-8af8-45a4-95d5-a106e44e1e9f")
 	)
 	(label "COMMS_+"
 		(at 48.26 138.43 180)
@@ -4376,17 +4452,6 @@
 			(justify right bottom)
 		)
 		(uuid "533b549e-cdfb-4d88-94ad-8834ef6da0a9")
-	)
-	(label "SWDIO"
-		(at 55.88 91.44 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "54bc606c-7808-4f96-bf49-aa2450a3e419")
 	)
 	(label "COMMS_-"
 		(at 168.91 134.62 180)
@@ -4553,17 +4618,6 @@
 		)
 		(uuid "8064d314-c25d-4b7a-b67b-5bb60ba6ec82")
 	)
-	(label "PAY_UART_TX"
-		(at 171.45 78.74 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "83582cec-a6c8-4bca-b78b-7333f0d95c7a")
-	)
 	(label "CubeControl_-"
 		(at 168.91 127 180)
 		(fields_autoplaced yes)
@@ -4596,17 +4650,6 @@
 			(justify left bottom)
 		)
 		(uuid "8e0dd323-2a00-4db3-96f7-04cd196b4a18")
-	)
-	(label "SWCLK"
-		(at 55.88 93.98 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "8fc87822-eaec-4742-8494-74850755680f")
 	)
 	(label "Nadir_-"
 		(at 60.96 143.51 0)
@@ -4784,17 +4827,6 @@
 		)
 		(uuid "a7c05b5b-dc7f-48c6-9373-c62c50db6101")
 	)
-	(label "GND"
-		(at 55.88 96.52 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a9efcb9d-c580-4b10-9d98-8b8f506a4f67")
-	)
 	(label "RF_GND"
 		(at 86.36 26.67 0)
 		(fields_autoplaced yes)
@@ -4883,17 +4915,6 @@
 		)
 		(uuid "bc7ace8d-af29-4378-9d94-85cc1d5500f2")
 	)
-	(label "PAY_UART_TX"
-		(at 55.88 86.36 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "bea5fc92-70cd-4b84-a292-9a5ed853972f")
-	)
 	(label "!SAT_ENA_HS"
 		(at 78.74 58.42 0)
 		(fields_autoplaced yes)
@@ -4981,39 +5002,6 @@
 			(justify left bottom)
 		)
 		(uuid "e3b7b165-037a-4cd1-b4c1-f8d9a3e1327b")
-	)
-	(label "GND"
-		(at 171.45 88.9 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "e41777d3-f2c6-48a2-8c30-da598374ab7a")
-	)
-	(label "GND"
-		(at 55.88 88.9 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ec9f8e0e-f856-4851-b2ed-73db327e16f3")
-	)
-	(label "SWDIO"
-		(at 171.45 83.82 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ef007127-f3e6-4f60-9a41-ffc0799adb99")
 	)
 	(label "BAT_ENA_LS_POS"
 		(at 184.15 57.15 0)
@@ -5290,6 +5278,18 @@
 			)
 		)
 	)
+	(hierarchical_label "ATLAS_SPI_MOSI"
+		(shape input)
+		(at 173.99 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0c116fc7-eba9-4859-979d-730be000fd87")
+	)
 	(hierarchical_label "ADCS_SWCLK"
 		(shape output)
 		(at 115.57 104.14 0)
@@ -5313,6 +5313,18 @@
 			(justify left)
 		)
 		(uuid "21cda6c5-73e8-4172-a34b-48b6766ba0fc")
+	)
+	(hierarchical_label "ATLAS_SPI_SCK"
+		(shape input)
+		(at 173.99 86.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2dba290c-8499-470f-8169-994f293f8be5")
 	)
 	(hierarchical_label "NRST_OBC"
 		(shape output)
@@ -5374,6 +5386,18 @@
 		)
 		(uuid "4c71b410-9c6f-4aac-bacc-8c0526adaeb4")
 	)
+	(hierarchical_label "ATLAS_SPI_MISO"
+		(shape input)
+		(at 173.99 81.28 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4c9bb575-2356-48df-8a3f-24ffbe75afb5")
+	)
 	(hierarchical_label "COMMS_3V3_REF"
 		(shape input)
 		(at 87.63 104.14 180)
@@ -5397,6 +5421,30 @@
 			(justify left)
 		)
 		(uuid "4ed6c873-6af3-4810-a8d0-e909f2f084e4")
+	)
+	(hierarchical_label "ATLAS_SPI_MOSI"
+		(shape input)
+		(at 53.34 86.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "511871bd-67ee-4a39-8312-2cb3cb163cf0")
+	)
+	(hierarchical_label "ATLAS_SPI_SCK"
+		(shape input)
+		(at 53.34 93.98 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5ca92fcb-80e1-473b-9a8a-d9ae32d40baf")
 	)
 	(hierarchical_label "ADCS_UART_TX"
 		(shape input)
@@ -5457,6 +5505,18 @@
 			(justify left)
 		)
 		(uuid "74c7a8e6-78f7-4947-92f5-5a141e5c3a76")
+	)
+	(hierarchical_label "ATLAS_SPI_CS"
+		(shape input)
+		(at 53.34 96.52 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7ec856a7-58a2-4662-8823-4818f18ee3ee")
 	)
 	(hierarchical_label "MCU_SWDIO"
 		(shape bidirectional)
@@ -5530,6 +5590,18 @@
 		)
 		(uuid "ab441e7d-5331-4b54-8537-7bb6d36c49a0")
 	)
+	(hierarchical_label "ATLAS_SPI_MISO"
+		(shape input)
+		(at 53.34 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bfe7e02b-3752-4a70-88e8-6830ca90f365")
+	)
 	(hierarchical_label "OBC_DEBUGGER_VREF"
 		(shape input)
 		(at 205.74 128.27 0)
@@ -5565,6 +5637,18 @@
 			(justify left)
 		)
 		(uuid "d5a4b2e8-958b-438a-9b57-ba43b57e3d20")
+	)
+	(hierarchical_label "ATLAS_SPI_CS"
+		(shape input)
+		(at 173.99 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e85ec373-9142-42cb-b683-f877c80da351")
 	)
 	(hierarchical_label "ADCS_SWDIO"
 		(shape bidirectional)
@@ -6329,6 +6413,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 175.26 83.82 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2aac2d0d-797f-42a3-b7ce-0a646c0ab1f2")
+		(property "Reference" "#PWR016"
+			(at 168.91 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 168.021 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.26 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 175.26 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dfba42c3-f57c-4fab-ab1a-a80a68d0e89e")
+		)
+		(instances
+			(project "PlusX_Cover"
+				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 21.59 21.59 0)
 		(unit 1)
@@ -6560,6 +6711,73 @@
 			(project "PlusX_Cover"
 				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
 					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.26 76.2 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2f3dc90c-007b-4165-9355-cf1df1471ddc")
+		(property "Reference" "#PWR015"
+			(at 168.91 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 168.021 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.26 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 175.26 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ab5d1b9c-d499-4de8-a0d7-95fe48d30f3a")
+		)
+		(instances
+			(project "PlusX_Cover"
+				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -8852,7 +9070,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x06")
-		(at 176.53 81.28 0)
+		(at 181.61 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8861,7 +9079,7 @@
 		(fields_autoplaced yes)
 		(uuid "c969b07e-24c1-4ed9-94f8-0d7a04e11afd")
 		(property "Reference" "J10"
-			(at 179.07 81.2799 0)
+			(at 184.15 81.2799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8870,7 +9088,7 @@
 			)
 		)
 		(property "Value" "Conn_01x06"
-			(at 179.07 83.8199 0)
+			(at 184.15 83.8199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8880,7 +9098,7 @@
 			)
 		)
 		(property "Footprint" "504050-0691:504050-0691_2"
-			(at 176.53 81.28 0)
+			(at 181.61 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8889,7 +9107,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 176.53 81.28 0)
+			(at 181.61 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8898,7 +9116,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 176.53 81.28 0)
+			(at 181.61 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9001,6 +9219,73 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 54.61 91.44 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e6001255-a50e-4260-b9be-75f4911cbc64")
+		(property "Reference" "#PWR014"
+			(at 48.26 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 47.371 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 54.61 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.61 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 54.61 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "974920cd-a1e3-4e39-9eef-b6c5679ec8c9")
+		)
+		(instances
+			(project "PlusX_Cover"
+				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
+					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 88.9 127 270)
 		(mirror x)
 		(unit 1)
@@ -9061,6 +9346,73 @@
 			(project "PlusX_Cover"
 				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
 					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 54.61 83.82 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f292961f-e009-4b40-8e5d-6edef3ace906")
+		(property "Reference" "#PWR013"
+			(at 48.26 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 47.371 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 54.61 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.61 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 54.61 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "786cb642-cfce-4354-b3e5-e9b3f3e4be9e")
+		)
+		(instances
+			(project "PlusX_Cover"
+				(path "/b398e99c-ca15-40f9-85ee-00e17f812e48"
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
