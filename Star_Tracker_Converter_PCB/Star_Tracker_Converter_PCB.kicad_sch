@@ -9226,53 +9226,6 @@
 			)
 		)
 	)
-	(sheet
-		(at 167.894 86.614)
-		(size 69.85 52.832)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "fb321209-ca96-4d36-84c0-4d9a0e56d9b8")
-		(property "Sheetname" "MCU"
-			(at 167.894 85.9024 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "mcu.kicad_sch"
-			(at 167.894 140.0306 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Field2" ""
-			(at 167.894 86.614 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "Star_Tracker_Converter_PCB"
-				(path "/c8e3b979-201e-40fa-b65e-9bbe7ac7dd24"
-					(page "2")
-				)
-			)
-		)
-	)
 	(sheet_instances
 		(path "/"
 			(page "1")

@@ -124,7 +124,7 @@
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -576,10 +576,6 @@
     [
       "c8e3b979-201e-40fa-b65e-9bbe7ac7dd24",
       "Root"
-    ],
-    [
-      "fb321209-ca96-4d36-84c0-4d9a0e56d9b8",
-      "MCU"
     ]
   ],
   "text_variables": {}
